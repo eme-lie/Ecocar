@@ -1,2 +1,2 @@
 # Ecocar Description
-I guess you are wondering what Ecocar is all about
+I guess you have been wondering what Ecocar is all about
